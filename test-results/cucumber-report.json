@@ -1,0 +1,301 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "verify-navigation-and-interaction-with-the-polygon-homepage;navigate-through-main-menu-items-and-verify-page-buttons-and-redirections",
+        "keyword": "Scenario",
+        "line": 32,
+        "name": "Navigate through main menu items and verify page buttons and redirections",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1630310415
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 33,
+            "name": "I navigate to the polygon home page",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2926779208
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 34,
+            "name": "I click on the \"Products\" menu item",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 102871541
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 35,
+            "name": "I click on the \"Stocks\" dropdown item under Products",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 355470792
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 36,
+            "name": "I click on the polygon icon to navigate back to the home page",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:85"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49774750
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 37,
+            "name": "I click on the \"Products\" menu item",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 59095249
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 38,
+            "name": "I click on the \"Options\" dropdown item under Products",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 322264666
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 39,
+            "name": "I click on the polygon icon to navigate back to the home page",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:85"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 44566125
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 40,
+            "name": "I click on the \"Products\" menu item",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 51757292
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 41,
+            "name": "I click on the \"Indices\" dropdown item under Products",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 337035459
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "I click on the polygon icon to navigate back to the home page",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:85"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1608535125
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 43,
+            "name": "I click on the Sign Up button",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:90"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 189988250
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 44,
+            "name": "I navigate to the polygon home page",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2045527791
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 45,
+            "name": "I click on the Log In button",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:94"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 152581999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 46,
+            "name": "I navigate to the polygon home page",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2066975958
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 47,
+            "name": "I click on the Create API Key button",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:102"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 133708499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 48,
+            "name": "I navigate to the polygon home page",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1414302541
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 49,
+            "name": "I navigate to the polygon home page",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1617010333
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 50,
+            "name": "I navigate to the polygon home page",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1196668791
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 51,
+            "name": "I verify the Facebook icon navigation",
+            "match": {
+              "location": "src/step-definitions/homePage.steps.ts:110"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10787147166
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 161086583
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 28
+          },
+          {
+            "name": "@Demo",
+            "line": 31
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "verify-navigation-and-interaction-with-the-polygon-homepage",
+    "line": 29,
+    "keyword": "Feature",
+    "name": "Verify navigation and interaction with the polygon homepage",
+    "tags": [
+      {
+        "name": "@Demo",
+        "line": 28
+      }
+    ],
+    "uri": "src/features/homePage.feature"
+  }
+]
